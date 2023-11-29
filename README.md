@@ -12,5 +12,6 @@ This is a collection of tools and programs that I've found useful and interestin
 -   **Phind**: An AI based on ChatGPT that is mainly focused on IT tasks, and it can fetch the web for information  [phind](https://www.phind.com/)
 -   **Allkeyshop**: A platform for buying, selling and comparing key prices across different sites .  [allkeyshop](https://www.allkeyshop.com/)
 -   **Lancache**: A project for creating a faster download server.  [lancachenet](https://github.com/lancachenet/)
+-   **Fooocus**: Fooocus is a rethinking of Stable Diffusion and Midjourney’s designs. [fooocus](https://github.com/lllyasviel/Fooocus)
 
 Each of these tools and programs has its own unique features and benefits. They span a wide range of applications, from cybersecurity and gaming to development and productivity. They're not only interesting but also potentially useful for various tasks and projects.
