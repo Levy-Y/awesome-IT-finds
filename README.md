@@ -1,10 +1,10 @@
 This is a collection of tools and programs that I've found useful and interesting. Some of these may be familiar to you, while others might be new. They're a mix of utilities, software, and platforms that I believe could be beneficial in various projects, or situations:
 
--   **Hack The Box**: A platform for cybersecurity training and a community forum for discussions.  [](https://www.hackthebox.com/)
+-   **Hack The Box**: A platform for cybersecurity training and a community forum for discussions.  [hackthebox](https://www.hackthebox.com/)
 -   **Craftbench ai**: A platform for crafting and sharing Minecraft skins.  [craftbench ai](https://discord.gg/craftbench)
 -   **Essential**: An easy way to play minecraft with frineds over the internet, without port forwarding  [essential](https://essential.gg/)
 -   **Project Lodestone**: A pretty great project for creating Minecraft bots with a Python API.  [project lodestone](https://github.com/the-lodestone-project/Lodestone)
--   **Microsoft PowerToys**: A set of utilities for power users to tune and streamline their Windows experience for greater productivity.  [powertoys](https://github.com/microsoft/PowerToys)
+-   **Microsoft PowerToys**: A set of utilities for power users to tune and streamline their Windows experience.  [powertoys](https://github.com/microsoft/PowerToys)
 -   **Ollama Web UI**: A user-friendly web interface for chat interactions with ollama.  [ollamaweb](https://github.com/ollama-webui/ollama-webui)
 -   **HoneyPi**: A project that turns a Raspberry Pi into a honeypot.  [honeypi](https://github.com/mattymcfatty/HoneyPi)
 -   **Linkwarden**: A bookmark manager that allows users to collect, organize, and archive webpages.  [linkwarden](https://linkwarden.app/)
