@@ -14,5 +14,6 @@ This is a collection of tools and programs that I've found useful and interestin
 -   **Lancache**: A project for creating a faster download server.  [lancachenet](https://github.com/lancachenet/)
 -   **Fooocus**: Fooocus is a rethinking of Stable Diffusion and Midjourney’s designs. [fooocus](https://github.com/lllyasviel/Fooocus)
 -   **Codux**: Visually edit projects side-by-side with your code editor. [codux](https://www.codux.com/)
+-   **Gocui**: Minimalist Go package aimed at creating Console User Interfaces. [gocui](https://github.com/jroimartin/gocui)
 
 Each of these tools and programs has its own unique features and benefits. They span a wide range of applications, from cybersecurity and gaming to development and productivity. They're not only interesting but also potentially useful for various tasks and projects.
