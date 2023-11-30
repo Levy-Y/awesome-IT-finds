@@ -16,5 +16,6 @@ This is a collection of tools and programs that I've found useful and interestin
 -   **Codux**: Visually edit projects side-by-side with your code editor. [codux](https://www.codux.com/)
 -   **Gocui**: Minimalist Go package aimed at creating Console User Interfaces. [gocui](https://github.com/jroimartin/gocui)
 -   **VanillaOS**: An all-in-one linux distro. [showcase](https://youtu.be/peDeqIWIyws?si=2DLFPWP8VEHXsPko) [vanillaos](https://vanillaos.org)
+-   **Weld**: An easy way of merging minecraft texture pack with ease. [weld](https://weld.smithed.dev)
 
 Each of these tools and programs has its own unique features and benefits. They span a wide range of applications, from cybersecurity and gaming to development and productivity. They're not only interesting but also potentially useful for various tasks and projects.
