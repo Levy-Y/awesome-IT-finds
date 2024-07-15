@@ -19,5 +19,6 @@ This is a collection of tools and programs that I've found useful and interestin
 -   **Weld**: An easy way of merging minecraft texture pack with ease. [weld](https://weld.smithed.dev)
 -   **Twingate**: Twingate provides secure access to private resources for distributed workforces under a zero trust networking model. [twingate](https://www.twingate.com/)
 -   **Ngrok**: Connect to external networks in a consistent, secure, and repeatable manner without requiring any changes to network configurations. [ngrok](https://ngrok.com)
+-   **Nightshade**: The Glaze Project (including Glaze, Nightshade, WebGlaze and others) is a research effort that develops technical tools with the explicit goal of protecting human creatives against invasive uses of generative artificial intelligence or GenAI. [nightshade](https://nightshade.cs.uchicago.edu/downloads.html)
 
 Each of these tools and programs has its own unique features and benefits. They span a wide range of applications, from cybersecurity and gaming to development and productivity. They're not only interesting but also potentially useful for various tasks and projects.
