@@ -1,7 +1,7 @@
 This is a collection of tools and programs that I've found useful and interesting. Some of these may be familiar to you, while others might be new. They're a mix of utilities, software, and platforms that I believe could be beneficial in various projects, or situations:
 
 -   **Hack The Box**: A platform for cybersecurity training and a community forum for discussions.  [hackthebox](https://www.hackthebox.com/)
--   **Craftbench ai**: A platform for crafting and sharing Minecraft skins.  [craftbench ai](https://discord.gg/craftbench)
+-   **Craftbench ai**: A platform for crafting and sharing Minecraft assets.  [craftbench ai](https://discord.gg/craftbench)
 -   **Essential**: An easy way to play minecraft with frineds over the internet, without port forwarding  [essential](https://essential.gg/)
 -   **Project Lodestone**: A pretty great project for creating Minecraft bots with a Python API.  [project lodestone](https://github.com/the-lodestone-project/Lodestone)
 -   **PowerToys**: A set of utilities for power users to tune and streamline their Windows experience.  [powertoys](https://github.com/microsoft/PowerToys)
