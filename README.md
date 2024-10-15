@@ -21,5 +21,6 @@ This is a collection of tools and programs that I've found useful and interestin
 -   **Ngrok**: Connect to external networks in a consistent, secure, and repeatable manner without requiring any changes to network configurations. [ngrok](https://ngrok.com)
 -   **Nightshade**: The Glaze Project (including Glaze, Nightshade, WebGlaze and others) is a research effort that develops technical tools with the explicit goal of protecting human creatives against invasive uses of generative artificial intelligence or GenAI. [nightshade](https://nightshade.cs.uchicago.edu/downloads.html)
 -   **Gamma**: An AI powerd comprehensive tool for creating beautiful and effective presentations, documents, and websites. [gamma](https://gamma.app/)
+-   **Sunshine**: Sunshine is a self-hosted, low latency cloud gaming server, offering low latency, and support for AMD, Intel, and Nvidia [sunshine](https://app.lizardbyte.dev/Sunshine/)
 
 Each of these tools and programs has its own unique features and benefits. They span a wide range of applications, from cybersecurity and gaming to development and productivity. They're not only interesting but also potentially useful for various tasks and projects.
