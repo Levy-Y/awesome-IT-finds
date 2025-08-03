@@ -28,5 +28,6 @@ This is a collection of tools and programs that I've found useful and interestin
 -   **Scribe**: An AI-powered tool that lets you automatically record your on‑screen actions (like clicks and typing) and instantly generate polished, step‑by‑step guides or SOPs (standard operating procedures), complete with annotated screenshots and instructions. [scribe](https://scribehow.com/)
 -   **PostHog**: PostHog is an open‑source, all‑in‑one product analytics and experimentation platform purpose‑built for developers and product teams. [posthog](https://github.com/PostHog/posthog)
 -   **WebMap**: A web-based interface for Nmap, designed to visualize and interact with scan results in a user-friendly way. [webmap](https://github.com/SabyasachiRana/WebMap)
+-   **Jam**: A developer tool for bug reporting and collaboration. It lets you quickly capture a bug report from a website (including logs, network requests, browser info, etc.) and share it with your team via a link. [jam](https://jam.dev/)
 
 Each of these tools and programs has its own unique features and benefits. They span a wide range of applications, from cybersecurity and gaming to development and productivity. They're not only interesting but also potentially useful for various tasks and projects.
